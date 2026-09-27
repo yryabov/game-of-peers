@@ -1,0 +1,50 @@
+{
+ "random,r=1": {
+  "kind": "random",
+  "r": 1,
+  "pair_rate": 0.03395833333333333,
+  "ever_rate": 0.0671875
+ },
+ "random,r=2": {
+  "kind": "random",
+  "r": 2,
+  "pair_rate": 0.0406875,
+  "ever_rate": 0.140625
+ },
+ "random,r=3": {
+  "kind": "random",
+  "r": 3,
+  "pair_rate": 0.03729166666666667,
+  "ever_rate": 0.1828125
+ },
+ "random,r=4": {
+  "kind": "random",
+  "r": 4,
+  "pair_rate": 0.032302083333333335,
+  "ever_rate": 0.234375
+ },
+ "protected,r=1": {
+  "kind": "protected",
+  "r": 1,
+  "pair_rate": 0.035229166666666666,
+  "ever_rate": 0.0578125
+ },
+ "protected,r=2": {
+  "kind": "protected",
+  "r": 2,
+  "pair_rate": 0.017322916666666667,
+  "ever_rate": 0.075
+ },
+ "protected,r=3": {
+  "kind": "protected",
+  "r": 3,
+  "pair_rate": 0.008229166666666666,
+  "ever_rate": 0.075
+ },
+ "protected,r=4": {
+  "kind": "protected",
+  "r": 4,
+  "pair_rate": 0.00371875,
+  "ever_rate": 0.0546875
+ }
+}

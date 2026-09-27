@@ -1,0 +1,98 @@
+[
+ {
+  "n": 50,
+  "m": 3,
+  "seconds": 0.0004413839999983793,
+  "destructive": false
+ },
+ {
+  "n": 100,
+  "m": 3,
+  "seconds": 0.0006211550000045918,
+  "destructive": false
+ },
+ {
+  "n": 200,
+  "m": 3,
+  "seconds": 0.0013227219999976114,
+  "destructive": false
+ },
+ {
+  "n": 400,
+  "m": 3,
+  "seconds": 0.003561065000013741,
+  "destructive": false
+ },
+ {
+  "n": 50,
+  "m": 4,
+  "seconds": 0.0004918090000103348,
+  "destructive": false
+ },
+ {
+  "n": 100,
+  "m": 4,
+  "seconds": 0.0007762269999886939,
+  "destructive": false
+ },
+ {
+  "n": 200,
+  "m": 4,
+  "seconds": 0.001907015000000456,
+  "destructive": false
+ },
+ {
+  "n": 400,
+  "m": 4,
+  "seconds": 0.003754318999995121,
+  "destructive": false
+ },
+ {
+  "n": 50,
+  "m": 5,
+  "seconds": 0.001130872999993926,
+  "destructive": false
+ },
+ {
+  "n": 100,
+  "m": 5,
+  "seconds": 0.000982843000002731,
+  "destructive": false
+ },
+ {
+  "n": 200,
+  "m": 5,
+  "seconds": 0.0019944979999877432,
+  "destructive": false
+ },
+ {
+  "n": 400,
+  "m": 5,
+  "seconds": 0.002847452999986899,
+  "destructive": false
+ },
+ {
+  "n": 50,
+  "m": 6,
+  "seconds": 0.0022852379999847017,
+  "destructive": false
+ },
+ {
+  "n": 100,
+  "m": 6,
+  "seconds": 0.003915664999993851,
+  "destructive": false
+ },
+ {
+  "n": 200,
+  "m": 6,
+  "seconds": 0.0028474519999974746,
+  "destructive": false
+ },
+ {
+  "n": 400,
+  "m": 6,
+  "seconds": 0.0036299310000060814,
+  "destructive": false
+ }
+]

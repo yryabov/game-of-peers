@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the software as below."
+title: "Game of Peers: reference implementation of the credential algebra for human-AI actor networks"
+type: software
+version: 1.0.0
+date-released: 2026-09-27
+license: MIT
+repository-code: "https://github.com/yryabov/game-of-peers"
+authors:
+  - family-names: Ryabov
+    given-names: Yaroslav
+    orcid: "https://orcid.org/0009-0001-4906-4537"
+    email: yaroslav.ryabov@gmail.com
+keywords:
+  - access control
+  - delegation
+  - trust management
+  - multi-agent systems
+  - human-AI collaboration
+  - cooperative game theory
+  - computational complexity
+preferred-citation:
+  type: article
+  title: "The Game of Peers: Toward a Credential Algebra for Human-AI Actor Networks"
+  authors:
+    - family-names: Ryabov
+      given-names: Yaroslav
+      orcid: "https://orcid.org/0009-0001-4906-4537"
+  year: 2026
+  notes: "Manuscript under submission; preprint archived on Zenodo."
+  doi: 10.5281/zenodo.19644281

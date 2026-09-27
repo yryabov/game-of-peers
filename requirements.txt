@@ -1,0 +1,3 @@
+# The library, tests and verification scripts use the Python standard library only.
+# matplotlib is needed solely by make_figures.py.
+matplotlib>=3.5
